@@ -1,4 +1,3 @@
-// src/components/Feedback/Feedback.jsx
 import React from 'react';
 import styles from './Feedback.module.css';
 

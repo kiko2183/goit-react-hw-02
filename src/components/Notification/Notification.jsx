@@ -1,4 +1,3 @@
-// src/components/Notification/Notification.jsx
 import React from 'react';
 import styles from './Notification.module.css';
 
